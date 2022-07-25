@@ -1,4 +1,4 @@
-colossalai==0.1.3
+# pip install colossalai==0.1.8+torch1.12cu11.3 -f https://release.colossalai.org/nightly
 datasets==2.2.2
 einops==0.4.1
 sentencepiece==0.1.96
